@@ -1,1 +1,1 @@
-# exercises-logic-javascript
+# exercises-logic
